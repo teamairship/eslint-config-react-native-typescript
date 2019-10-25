@@ -19,7 +19,7 @@ In your ESLint config file, e.g. `.eslintrc`:
   "parserOptions": {
     "project": "./tsconfig.json" // Don't forget to set this up :-)
   },
-  "extends": ["@airship/eslint-config-react-native-ts"]
+  "extends": ["@airship/eslint-config-react-native-typescript"]
 }
 ```
 
