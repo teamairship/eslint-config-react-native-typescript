@@ -51,7 +51,7 @@ If you need a starter `tsconfig.json` you can use this one:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at [https://github.com/teamairship/tslint-react-config](https://github.com/teamairship/eslint-config-react-native-typescript). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+Bug reports and pull requests are welcome on GitHub at [https://github.com/teamairship/tslint-react-config](https://github.com/teamairship/eslint-config-react-native-typescript). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Code of Conduct](https://github.com/teamairship/eslint-config-react-native-typescript/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
