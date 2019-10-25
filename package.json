@@ -1,0 +1,49 @@
+{
+  "name": "@airship/eslint-config-react-native-typescript",
+  "version": "1.0.0",
+  "description": "The ESLint configuration for Airship TypeScript React Native projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamairship/eslint-config-react-native-typescript.git"
+  },
+  "keywords": [
+    "eslint",
+    "react native",
+    "typescript"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "author": "Seth <seth.alexander@pm.me> (sethalexander.me)",
+  "contributors": [
+    {
+      "name": "Seth Alexander",
+      "email": "seth@teamairship.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamairship/eslint-config-react-native-typescript/issues"
+  },
+  "homepage": "https://github.com/teamairship/eslint-config-react-native-typescript#readme",
+  "devDependencies": {
+    "husky": "^3.0.9",
+    "pretty-quick": "^2.0.0"
+  },
+  "dependencies": {
+    "@react-native-community/eslint-config": "^0.0.5",
+    "@typescript-eslint/eslint-plugin": "^2.5.0",
+    "@typescript-eslint/parser": "^2.5.0",
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react-hooks": "^2.2.0",
+    "eslint-plugin-react-native": "^3.7.0"
+  },
+  "peerDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
