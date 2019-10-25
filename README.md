@@ -14,7 +14,7 @@ yarn add -D typescript @airship/eslint-config-react-native-typescript
 
 In your ESLint config file, e.g. `.eslintrc`:
 
-```json
+```javascript
 {
   "parserOptions": {
     "project": "./tsconfig.json" // Don't forget to set this up :-)
