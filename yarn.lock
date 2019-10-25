@@ -2,6 +2,20 @@
 # yarn lockfile v1
 
 
+"@airship/eslint-config-react-native-typescript@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@airship/eslint-config-react-native-typescript/-/eslint-config-react-native-typescript-1.0.0.tgz#a9c9aa9fb0c7b2accde5720bf545ef442cf727c9"
+  integrity sha512-OTsWPdob9BLYvJNpA1oWMFXI5OHT0n/HikXC1HUcwB1VqxxxRoYAPEYb7KeqU/5NeOAW3mbGTVnfzdFppg2/AA==
+  dependencies:
+    "@react-native-community/eslint-config" "^0.0.5"
+    "@typescript-eslint/eslint-plugin" "^2.5.0"
+    "@typescript-eslint/parser" "^2.5.0"
+    eslint "^6.5.1"
+    eslint-config-prettier "^6.4.0"
+    eslint-plugin-prettier "^3.1.1"
+    eslint-plugin-react-hooks "^2.2.0"
+    eslint-plugin-react-native "^3.7.0"
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.5.5":
   version "7.5.5"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.5.5.tgz#bc0782f6d69f7b7d49531219699b988f669a8f9d"
